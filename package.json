@@ -1,0 +1,26 @@
+{
+  "name": "coundown",
+  "version": "1.0.0",
+  "description": "coundown",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobsboris27/coundown.git"
+  },
+  "keywords": [
+    "coundown"
+  ],
+  "author": "Boris jobsboris27@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jobsboris27/coundown/issues"
+  },
+  "homepage": "https://github.com/jobsboris27/coundown#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
