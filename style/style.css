@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+.simple-countdown {
+  font-family: 'Roboto', sans-serif;
+}
+.simple-countdown__container {
+  display: flex;
+}
+.simple-countdown__item {
+  padding: 20px;
+}
+.simple-countdown__item span {
+  display: block;
+}

@@ -1,0 +1,17 @@
+html,
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+* {
+  box-sizing: border-box
+}
+
+#countdown {
+  margin: 0 auto;
+  text-align: center
+}
+
+.simple-countdown {
+  display: inline-block;
+}

@@ -21,6 +21,11 @@
   "homepage": "https://github.com/jobsboris27/coundown#readme",
   "devDependencies": {
     "chai": "^4.1.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-less": "^3.5.0",
+    "gulp-rename": "^1.2.3",
+    "gulp-uglify-es": "^1.0.4",
     "mocha": "^5.2.0"
   }
 }
